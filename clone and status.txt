@@ -36,8 +36,20 @@ git add .               # Add all files
 Record the staged changes with a message.
 git commit -m "Your commit message"
 
+🔹 cd – Change Directory
+cd lets you move between folders in your file system.
+cd folder_name
+
+
 
 🔹 Push Changes
 Upload commits from your local repo to GitHub.
 git push origin main
+
+🔹 cd .. – Go Up One Folder
+Moves one level up in the directory tree.
+
+Example:
+cd ..
+
 
