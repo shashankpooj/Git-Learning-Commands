@@ -1,39 +1,43 @@
+📝 Git Basics Cheat Sheet
+🔹 Clone a Repository
 
-clone- a repository on our local machine
+Download a repository from GitHub to your local machine.
+git clone <repository-link>
 
-git clone <-some link->
-
-status-displays the state of code
+🔹 Check Status
+See which files are changed, staged, or untracked.
 git status
 
-ls=list of files
--->ls 
+🔹 List Files
+Show files in current directory:
+ls
 
-ls -a=list of hidden files
--->ls -a 
-
-things to remember 
-
-if git status code in red color(file) u made chnages in file and changes made are not commited
+Show hidden files too:
+ls -a
 
 
-to make so so follow 2 steps:
-add and commit 
---> git add <- file name -> adds new or changed files in your working directory to the git staging area
---> git add . # for multiple files
+🔹 Important Notes
+
+If git status shows a file in red → changes made but not staged.
+
+To save changes, you must:
+
+Add files to staging area
+
+Commit them
+
+🔹 Add Files
+Move changes to the staging area.
+git add <file-name>     # Add a single file
+git add .               # Add all files
 
 
-commit-it is record of changes
-git commit -m "some message"
+🔹 Commit Changes
+Record the staged changes with a message.
+git commit -m "Your commit message"
 
-push-to make complete changes in github repo
-push command
-push-upload local repo content to remote repo
+
+🔹 Push Changes
+Upload commits from your local repo to GitHub.
 git push origin main
-
-
-
-
-
-
 
