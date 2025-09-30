@@ -1,0 +1,39 @@
+🔹 What is Git?
+
+Git is a version control system (VCS).
+That means it keeps track of the changes you make to files in a project over time.
+
+Think of it as a time machine for your code:
+
+You can save snapshots of your project (called commits).
+
+You can go back to an earlier version if something breaks.
+
+You can work with others without overwriting each other’s changes.
+
+
+
+🔹 Why do we use Git?
+
+Track history – Every change you make is recorded.
+
+Collaboration – Many developers can work on the same project at the same time.
+
+Branching – Try new features in a separate branch without breaking the main code.
+
+Backup – Your code can be stored online (e.g., GitHub, GitLab, Bitbucket).
+
+
+
+🔹 Git vs GitHub
+
+Git → A tool on your computer to manage code history.
+
+GitHub → A cloud platform to store Git repositories online and collaborate with others.
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+🔹 Step 1: Create GitHub Account
+
+Go to 👉 https://github.com/signup
+
+Fill in:
+
+Email address
+
+Password (make it strong)
+
+Username (unique, will be your GitHub identity, e.g., shashankpoojary)
+
+Verify email (GitHub will send you a code).
+
+Choose Free plan (good enough for learning).
+
+
+🔹 Step 2: Create a New Repository on GitHub
+
+On GitHub → top-right corner → + → New repository.
+
+Enter repository name (e.g., Git-Learning-Commands).
+
+Choose Public (so others can see) or Private.
+
+Click Create repository.
