@@ -1,0 +1,8 @@
+to delete file that as committed already 
+git rm --cached <file name>
+
+then delete vs code file
+
+then
+git commit -m < file name> 
+
