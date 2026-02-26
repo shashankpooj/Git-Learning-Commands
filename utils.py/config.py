@@ -1,3 +1,3 @@
 print("testing folder")
-print("checking the changes for  branching")
-print("merging branches")
+print("checking the changes for main branch")
+print("merging main branch....")
