@@ -7,3 +7,6 @@ git branch -d <-branch name -> (to delete branch)
 feature 2 checkout trial 
 git diff <-branch name-> (to compare commits,branches,files or more)
 git merge <-branch name->(to merge 2 branches)
+
+
+
